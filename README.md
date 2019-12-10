@@ -1,2 +1,2 @@
 # Paris-Irma-Datasets
-Contains tweets and user Ids of Paris and Irma dataset within a specific timeframe
+Contains tweet Id's and user Id's of Paris and Irma dataset within a specific timeframe
